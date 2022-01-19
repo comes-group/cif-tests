@@ -33,3 +33,9 @@ The script `test-runner.py` can be used to automate running tests.
 # To classify for Bronze or Silver:
 $ python3 test-runner.py <decoder args...>
 ```
+
+## Large files
+
+Names of CIF files whose size exceeds 100 KiB should are with `.large.cif`. These files are tracked
+using Git Large File Storage (LFS) so as to avoid increasing the size of the repository
+substantially.
