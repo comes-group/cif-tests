@@ -1,0 +1,7 @@
+CIF: polish
+WERSJA jeden
+ROZMIAR szerokość: jeden, wysokość: jeden, bitów_na_piksel: dwadzieścia cztery
+METADANE test:description The key can have line breaks.
+METADANE bre
+ak my amen
+zero; zero; zero

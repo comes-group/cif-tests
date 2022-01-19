@@ -1,0 +1,7 @@
+CIF: polish
+WERSJA jeden
+ROZMIAR szerokość: jeden, wysokość: jeden, bitów_na_piksel: dwadzieścia cztery
+METADANE test:description Metadata keys must not contain line feeds.
+METADANE break bone
+s
+zero; zero; zero
