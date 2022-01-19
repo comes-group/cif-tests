@@ -1,5 +1,7 @@
 # CIF decoder tests
 
+![The CIF losslessness test image](valid/test-image.large.png)
+
 This repository contains various tests for compliance with the CIF specification.
 
 ## How to use these tests
