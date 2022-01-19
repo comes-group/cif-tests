@@ -1,0 +1,68 @@
+CIF: polish
+WERSJA jeden
+ROZMIAR szerokość: jeden, wysokość: sześćdziesiąt cztery, bitów_na_piksel: trzydzieści dwa
+METADANE test:description Catches decoders that try to use the lazy route of only checking certain letters.
+zero; jedex; dwa; trzy
+cztexx; pięć; sześx; siedxx
+osiex; dziexxxx; dziexxxx; jedexxxxxx
+dwanxxxxx; trzyxxxxxx; cztexxxxxxx; piętxxxxxx
+szesxxxxxx; siedxxxxxxxx; osiexxxxxxx; dziexxxxxxxxxx
+dwadxxxxxxx; dwadxxxxxxx jedex; dwadxxxxxxx dwa; dwadxxxxxxx trzy
+dwadxxxxxxx cztexx; dwadxxxxxxx pięć; dwadxxxxxxx sześx; dwadxxxxxxx siedxx
+dwadxxxxxxx osiex; dwadxxxxxxx dziexxxx; trzyxxxxxxx; trzyxxxxxxx jedex
+trzyxxxxxxx dwa; trzyxxxxxxx trzy; trzyxxxxxxx cztexx; trzyxxxxxxx pięć
+trzyxxxxxxx sześx; trzyxxxxxxx siedxx; trzyxxxxxxx osiex; trzyxxxxxxx dziexxxx
+cztexxxxxxxx; cztexxxxxxxx jedex; cztexxxxxxxx dwa; cztexxxxxxxx trzy
+cztexxxxxxxx cztexx; cztexxxxxxxx pięć; cztexxxxxxxx sześx; cztexxxxxxxx siedxx
+cztexxxxxxxx osiex; cztexxxxxxxx dziexxxx; pięćxxxxxxxx; pięćxxxxxxxx jedex
+pięćxxxxxxxx dwa; pięćxxxxxxxx trzy; pięćxxxxxxxx cztexx; pięćxxxxxxxx pięć
+pięćxxxxxxxx sześx; pięćxxxxxxxx siedxx; pięćxxxxxxxx osiex; pięćxxxxxxxx dziexxxx
+sześxxxxxxxxx; sześxxxxxxxxx jedex; sześxxxxxxxxx dwa; sześxxxxxxxxx trzy
+sześxxxxxxxxx cztexx; sześxxxxxxxxx pięć; sześxxxxxxxxx sześx; sześxxxxxxxxx siedxx
+sześxxxxxxxxx osiex; sześxxxxxxxxx dziexxxx; siedxxxxxxxxxx; siedxxxxxxxxxx jedex
+siedxxxxxxxxxx dwa; siedxxxxxxxxxx trzy; siedxxxxxxxxxx cztexx; siedxxxxxxxxxx pięć
+siedxxxxxxxxxx sześx; siedxxxxxxxxxx siedxx; siedxxxxxxxxxx osiex; siedxxxxxxxxxx dziexxxx
+osiexxxxxxxxx; osiexxxxxxxxx jedex; osiexxxxxxxxx dwa; osiexxxxxxxxx trzy
+osiexxxxxxxxx cztexx; osiexxxxxxxxx pięć; osiexxxxxxxxx sześx; osiexxxxxxxxx siedxx
+osiexxxxxxxxx osiex; osiexxxxxxxxx dziexxxx; dziexxxxxxxxxxx; dziexxxxxxxxxxx jedex
+dziexxxxxxxxxxx dwa; dziexxxxxxxxxxx trzy; dziexxxxxxxxxxx cztexx; dziexxxxxxxxxxx pięć
+dziexxxxxxxxxxx sześx; dziexxxxxxxxxxx siedxx; dziexxxxxxxxxxx osiex; dziexxxxxxxxxxx dziexxxx
+sto; sto jedex; sto dwa; sto trzy
+sto cztexx; sto pięć; sto sześx; sto siedxx
+sto osiex; sto dziexxxx; sto dziexxxx; sto jedexxxxxx
+sto dwanxxxxx; sto trzyxxxxxx; sto cztexxxxxxx; sto piętxxxxxx
+sto szesxxxxxx; sto siedxxxxxxxx; sto osiexxxxxxx; sto dziexxxxxxxxxx
+sto dwadxxxxxxx; sto dwadxxxxxxx jedex; sto dwadxxxxxxx dwa; sto dwadxxxxxxx trzy
+sto dwadxxxxxxx cztexx; sto dwadxxxxxxx pięć; sto dwadxxxxxxx sześx; sto dwadxxxxxxx siedxx
+sto dwadxxxxxxx osiex; sto dwadxxxxxxx dziexxxx; sto trzyxxxxxxx; sto trzyxxxxxxx jedex
+sto trzyxxxxxxx dwa; sto trzyxxxxxxx trzy; sto trzyxxxxxxx cztexx; sto trzyxxxxxxx pięć
+sto trzyxxxxxxx sześx; sto trzyxxxxxxx siedxx; sto trzyxxxxxxx osiex; sto trzyxxxxxxx dziexxxx
+sto cztexxxxxxxx; sto cztexxxxxxxx jedex; sto cztexxxxxxxx dwa; sto cztexxxxxxxx trzy
+sto cztexxxxxxxx cztexx; sto cztexxxxxxxx pięć; sto cztexxxxxxxx sześx; sto cztexxxxxxxx siedxx
+sto cztexxxxxxxx osiex; sto cztexxxxxxxx dziexxxx; sto pięćxxxxxxxx; sto pięćxxxxxxxx jedex
+sto pięćxxxxxxxx dwa; sto pięćxxxxxxxx trzy; sto pięćxxxxxxxx cztexx; sto pięćxxxxxxxx pięć
+sto pięćxxxxxxxx sześx; sto pięćxxxxxxxx siedxx; sto pięćxxxxxxxx osiex; sto pięćxxxxxxxx dziexxxx
+sto sześxxxxxxxxx; sto sześxxxxxxxxx jedex; sto sześxxxxxxxxx dwa; sto sześxxxxxxxxx trzy
+sto sześxxxxxxxxx cztexx; sto sześxxxxxxxxx pięć; sto sześxxxxxxxxx sześx; sto sześxxxxxxxxx siedxx
+sto sześxxxxxxxxx osiex; sto sześxxxxxxxxx dziexxxx; sto siedxxxxxxxxxx; sto siedxxxxxxxxxx jedex
+sto siedxxxxxxxxxx dwa; sto siedxxxxxxxxxx trzy; sto siedxxxxxxxxxx cztexx; sto siedxxxxxxxxxx pięć
+sto siedxxxxxxxxxx sześx; sto siedxxxxxxxxxx siedxx; sto siedxxxxxxxxxx osiex; sto siedxxxxxxxxxx dziexxxx
+sto osiexxxxxxxxx; sto osiexxxxxxxxx jedex; sto osiexxxxxxxxx dwa; sto osiexxxxxxxxx trzy
+sto osiexxxxxxxxx cztexx; sto osiexxxxxxxxx pięć; sto osiexxxxxxxxx sześx; sto osiexxxxxxxxx siedxx
+sto osiexxxxxxxxx osiex; sto osiexxxxxxxxx dziexxxx; sto dziexxxxxxxxxxx; sto dziexxxxxxxxxxx jedex
+sto dziexxxxxxxxxxx dwa; sto dziexxxxxxxxxxx trzy; sto dziexxxxxxxxxxx cztexx; sto dziexxxxxxxxxxx pięć
+sto dziexxxxxxxxxxx sześx; sto dziexxxxxxxxxxx siedxx; sto dziexxxxxxxxxxx osiex; sto dziexxxxxxxxxxx dziexxxx
+dwiexxxx; dwiexxxx jedex; dwiexxxx dwa; dwiexxxx trzy
+dwiexxxx cztexx; dwiexxxx pięć; dwiexxxx sześx; dwiexxxx siedxx
+dwiexxxx osiex; dwiexxxx dziexxxx; dwiexxxx dziexxxx; dwiexxxx jedexxxxxx
+dwiexxxx dwanxxxxx; dwiexxxx trzyxxxxxx; dwiexxxx cztexxxxxxx; dwiexxxx piętxxxxxx
+dwiexxxx szesxxxxxx; dwiexxxx siedxxxxxxxx; dwiexxxx osiexxxxxxx; dwiexxxx dziexxxxxxxxxx
+dwiexxxx dwadxxxxxxx; dwiexxxx dwadxxxxxxx jedex; dwiexxxx dwadxxxxxxx dwa; dwiexxxx dwadxxxxxxx trzy
+dwiexxxx dwadxxxxxxx cztexx; dwiexxxx dwadxxxxxxx pięć; dwiexxxx dwadxxxxxxx sześx; dwiexxxx dwadxxxxxxx siedxx
+dwiexxxx dwadxxxxxxx osiex; dwiexxxx dwadxxxxxxx dziexxxx; dwiexxxx trzyxxxxxxx; dwiexxxx trzyxxxxxxx jedex
+dwiexxxx trzyxxxxxxx dwa; dwiexxxx trzyxxxxxxx trzy; dwiexxxx trzyxxxxxxx cztexx; dwiexxxx trzyxxxxxxx pięć
+dwiexxxx trzyxxxxxxx sześx; dwiexxxx trzyxxxxxxx siedxx; dwiexxxx trzyxxxxxxx osiex; dwiexxxx trzyxxxxxxx dziexxxx
+dwiexxxx cztexxxxxxxx; dwiexxxx cztexxxxxxxx jedex; dwiexxxx cztexxxxxxxx dwa; dwiexxxx cztexxxxxxxx trzy
+dwiexxxx cztexxxxxxxx cztexx; dwiexxxx cztexxxxxxxx pięć; dwiexxxx cztexxxxxxxx sześx; dwiexxxx cztexxxxxxxx siedxx
+dwiexxxx cztexxxxxxxx osiex; dwiexxxx cztexxxxxxxx dziexxxx; dwiexxxx pięćxxxxxxxx; dwiexxxx pięćxxxxxxxx jedex
+dwiexxxx pięćxxxxxxxx dwa; dwiexxxx pięćxxxxxxxx trzy; dwiexxxx pięćxxxxxxxx cztexx; dwiexxxx pięćxxxxxxxx pięć
