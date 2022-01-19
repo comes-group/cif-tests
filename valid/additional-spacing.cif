@@ -1,0 +1,12 @@
+CIF:      polish
+
+WERSJA    jeden
+ROZMIAR   szerokość: pięć,  wysokość: jeden,  bitów_na_piksel:  dwadzieścia  cztery
+METADANE  test:description    Support for additional spacing where permitted.
+
+zero;    zero;    zero
+jeden;   zero;    jeden
+dwa;     dwa;     dwa
+cztery;  cztery;  cztery
+dwieście            pięćdziesiąt       pięć; dwieście     pięćdziesiąt                 pięć; dwadzieścia    cztery
+

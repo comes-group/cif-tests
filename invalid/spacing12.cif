@@ -1,0 +1,5 @@
+CIF: polish
+WERSJA jeden
+ROZMIAR szerokość: jeden, wysokość: jeden, bitów_na_piksel: trzydzieści dwa
+METADANE test:description One of the many invalid spacing tests.
+zero; zero; zero ; zero
